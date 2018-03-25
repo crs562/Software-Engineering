@@ -11,7 +11,7 @@ Advantages:
 1. Developers need to learn only one notation for all development activities.
 2. Traceability among models and between models since they are written in the same notation.
 3. Code in made easier since they are written in same notation as model.
-4. Easier to train staff - only one notation to learn.
+4. Easier to train staff - only one notation to learn./n
 Disadvantages:
 1. A programming language is a low level notation that is difficult to use for representing user requirements.
 2. A programming language enables and encourages developers to represent implementation details too early.
