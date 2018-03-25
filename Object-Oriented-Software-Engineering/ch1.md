@@ -38,8 +38,11 @@ This is a nonfunctional requirement.
 
 ## Specify which of these decision were made during requirements or system design:
 ### "The TicketDistributor is composed of a user interface subsystem, a subsystem for computing tariff, and a network subsystem for managing communication with the central computer."
+This requirements made during system design decision.
 ### "The TicketDistributor hardware uses PowerPC processor chips."
+This requirements made during system desing decision if made by developers (otherwise, it is a requirements decision).
 ### "The TicketDistributor provides the traveler with online help."
+This requirements made during requirements decision.
 
 ## In the following description, explain when the term account is used as an application domain concept and when as a solution domain concept:
 ### "Assume you are developing an online system for managing bank accounts for mobile customers. A major design issue is how to provide access to the accounts when the customer cannot establish an online connection. One proposal is that accounts are made available on the mobile computer, even if the server is not up. In this case, the accounts show the amounts from the last connected session."
@@ -47,3 +50,9 @@ This is a nonfunctional requirement.
 ## What is the difference between a task and an activity?
 
 ## A passenger aircraft is composed of several millions of parts and requires thousands of persons to assemble. A four-lane highway bridge is another example of complexity. The first version of Word for Windows, a word processor released by Microsoft in 1989, required 55 person-years, resulted into 249,000 lines of source code, and was delivered 4 years late. Aircraft and highway bridges are usually delivered on time and within budget, whereas software is often not. Discuss what are, in your opinin, the difference between developing an aircraft, a bridge, and a word processor that would cause this situation.
+
+To estimate the budget and schedule for a new bridge or aircraft, engineers use actual data from previous bridges and aircraft. Word for Windows was an innovative piece of software with few or no precedents.<br/>
+Many bridges and aircraft are simply refinements of other existing artifacts. This reduces the proportion of the overall effort that is dedicated to design (which is the most difficult to estimate).<br/>
+Bridges and aircraft are often associated with severe financial penalties when late or over budget.
+Bridges and aircraft have safety requirements associated with them. This leads to a conservative approach to development including the use of mature technologies and well defined processes.
+Bridges and aircraft are sometimes delivered late too.
