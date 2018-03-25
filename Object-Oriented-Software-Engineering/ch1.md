@@ -2,12 +2,25 @@
 
 ## What is the purpose of modeling?
 
+The purpose of modeling is to make an abstract representation of a system that enables us to answer questions about the system. Modeling are useful when dealing with systems that are too large, too small, too complicated, or too expensive to experience firsthand. Modeling also allow us to visualize and understand systems that either no longer exist or that are only claimed to exist.
+
 ## A programming language is a notation for representing algorithms and data structures.
 ## List two advantages and two disadvantages of using a programming language as the sole notation throughout the development process.
+
+Advantages:
+1. Developers need to learn only one notation for all development activities.
+2. Traceability among models and between models since they are written in the same notation.
+3. Code in made easier since they are written in same notation as model.
+4. Easier to train staff - only one notation to learn.
+Disadvantages:
+1. A programming language is a low level notation that is difficult to use for representing user requirements.
+2. A programming language enables and encourages developers to represent implementation details too early.
 
 ## Consider a task you are not familiar with, such as designing a zero-emission car. How would you attack the problem?
 
 ## What is meant by "knowledge acquision is not sequential"? Provide a concrete example of knowledge acquisition that illustrates this.
+
+Knowledge acquisition is nonlinear in the sense that the acquisition of a new piece of knowledge may invalidate prior knowledge. In other terms, knowing one more piece of information may lead you to realize that what you thought you knew is invalid. For example, Galileo Galilei invalidated the earth centric model of the universe by observing the moons of Jupiter and the phases of Venus.
 
 ## Hypothesize a rationale for the following design decisions:
 ### "The TicketDistributor will be at most one and a half meters tall."
@@ -16,8 +29,11 @@
 
 ## Specify which of these statements are functional requirements and which are nonfunctional requirements:
 ### "The TicketDistributor must enable a traveler to buy weekly passes."
+This is a functional requirement.
 ### "The TicketDistributor must be written in Java."
+This is a nonfunctional requirement.
 ### "The TicketDistributor must be easy to use."
+This is a nonfunctional requirement.
 ### "The TicketDistributor must always be available."
 ### "The TicketDistributor must provide a phone number to call when it fails."
 
