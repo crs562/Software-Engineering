@@ -4,8 +4,7 @@
 
 The purpose of modeling is to make an abstract representation of a system that enables us to answer questions about the system. Modeling are useful when dealing with systems that are too large, too small, too complicated, or too expensive to experience firsthand. Modeling also allow us to visualize and understand systems that either no longer exist or that are only claimed to exist.
 
-## A programming language is a notation for representing algorithms and data structures.
-## List two advantages and two disadvantages of using a programming language as the sole notation throughout the development process.
+## A programming language is a notation for representing algorithms and data structures. List two advantages and two disadvantages of using a programming language as the sole notation throughout the development process.
 
 ### Advantages:
 1. Developers need to learn only one notation for all development activities.
